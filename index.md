@@ -93,7 +93,7 @@ You might wish to include an activity to wrap up the workshop to improve learner
 Some suggestions include:
 
 1. **Think-pair-share**: Ask learners to think about what the most valuable thing they learned from the workshop, then share it with their neighbor. This only takes a few minutes but still provides a clear end-point to the event.
-2. **Increasing likelihood**: Ask learners to set a goal, then ask how likely they are to undertake that goal (eg 50,70, 90%), and what would it take to make that likelihood 100%. Learners could start to identify their own behaviours and support from colleagues/supervisors that could help them towards achieving that goal.
+2. **Increasing likelihood**: Ask learners to set a goal, then ask how likely they are to undertake that goal (eg 50, 70, 90%), and what would it take to make that likelihood 100%. Learners could start to identify their own behaviours and support from colleagues/supervisors that could help them towards achieving that goal.
 3. **Now-next-later**: Ask learners to write some action plans for themselves, something they will do in the next two weeks, and/or something they will do in the next three months. This will give them some commitment to apply what they have learned in their job and continue embedding it into their practice. If learners share these with the room, the instructor can capture them in the Etherpad. 
 
 # Beyond the Standard Workshop
